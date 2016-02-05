@@ -1,5 +1,3 @@
-    // Socket programming project | Ajithesh
-    // The required header files are called
 
     #include <stdio.h>
     #include <stdlib.h>
